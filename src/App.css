@@ -1,0 +1,24 @@
+.boxlink{
+  margin-right: 8px;
+  margin-left: 8px;
+}
+
+.linkapp {
+  color: white;  
+  margin-right: 8px;
+  margin-left: 8px;
+}
+
+.linkapp:visited {
+  color: white;  
+  margin-right: 8px;
+  margin-left: 8px;
+}
+
+.linkapp:hover {
+  color: orange;  
+}
+
+.linkapp:active {
+  color: yellow;  
+}
